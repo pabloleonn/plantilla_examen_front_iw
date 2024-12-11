@@ -12,13 +12,13 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 // TODO: Cambiar por el vuestro 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB6zRqYyTJ80fnhlAmiMdKbnulxyBUR4y8",
-    authDomain: "lawiki-3f2f9.firebaseapp.com",
-    projectId: "lawiki-3f2f9",
-    storageBucket: "lawiki-3f2f9.firebasestorage.app",
-    messagingSenderId: "480272170142",
-    appId: "1:480272170142:web:5fd3d6f607e080f2ab4f8f",
-    measurementId: "G-58KJ67Z6WV"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 // Initialize Firebase
